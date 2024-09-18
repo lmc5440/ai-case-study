@@ -1,11 +1,11 @@
 # ai-case-study
 # Nvidia 
-Lauren Christiansen
+
 ## Overview and Origin
 
 Nvidia is a software company specializing in GPUs (graphics processing units), APIs (application programming interfaces), and system on a chip units (SoCs). They’re also a dominant supplier of AI (artificial intelligence) software and hardware.
 These products are primarily utilized in smartphones and tablets, vehicle navigation software, and entertainment systems.
-The company is valued at over $1 trillion.
+_The company is valued at over $1 trillion._
 * Name of company:
 Nvidia.
 * When was the company incorporated?
@@ -16,6 +16,7 @@ The founders of Nvidia are Jensen Huang, Chris Malachowsky, and Curtis Priem.
 The three founders were all engineers at other companies and had a bullish vision on the future of graphics acceleration, particularly because of the booming video game industry. They started and received 20 million in VC funding.
 * How is the company funded? How much funding have they received?
 They started with $40k in the bank and subsequently raised $20 million from VCs. They are now valued at over $1 trillion.
+---
 ## Business Activities
 Nvidia’s product suite is comprised of graphics processing units, wireless communication devices, and automotive software and hardware.
 An example of graphics processing is GeForce, which is a consumer-oriented graphics processing product.
@@ -30,7 +31,7 @@ Nvidia’s primary competitor has been AMD (Advanced Micro Devices), and what’
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 ??
 ## Landscape
-
+--- 
 * What field is the company in?
 Technology – GPUs, AI chipmaking.
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
@@ -42,6 +43,7 @@ Broader AI: generative AI, AI ethics, personalized AI, healthcare AI, multimodal
 AMD has been the primary competitor to Nvidia since the beginning. Most internet sources seem to compare the two companies’ graphics cards which are utilized by individual consumers in gaming.
 In terms of chips, Intel is the primary mainstay competitor to Nvidia, with cloud tech companies like Google, Amazon, & Meta also developing their own chips. Cerebras and SambaNova are competitors in the sense they’ve developed chip architecture to improve generative AI functionalities.
 ## Results
+
 * What has been the business impact of this company so far?
 Huge. Many companies rely on Nvidia’s chips and tech to run their core products. The primary driver to this success has been the CUDA technology described above. But the company has increasingly more competition in the chip space, and the average costs to run Nvidia chips can be upwards of $30k. This makes cheaper alternatives a need in the market, particularly one that’s been dominated by Nvidia for over 30 years.
 A new competitor, D-Matrix, came onto the scene in 2019, for instance. Their semiconductor technology could be a threat to Nvidia as their primary purpose is to reduce the cost of running AI models.
@@ -63,6 +65,7 @@ As someone completely new to coding and data architecture, I’m not completely 
 
 
 SOURCES
+---
 
 https://en.wikipedia.org/wiki/Nvidia
 
