@@ -1,6 +1,6 @@
 # ai-case-study
 # Nvidia 
-
+Lauren Christiansen
 ## Overview and Origin
 
 Nvidia is a software company specializing in GPUs (graphics processing units), APIs (application programming interfaces), and system on a chip units (SoCs). They’re also a dominant supplier of AI (artificial intelligence) software and hardware.
